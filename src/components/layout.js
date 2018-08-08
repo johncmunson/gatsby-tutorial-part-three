@@ -23,4 +23,4 @@ export default ({ children }) => (
         </header>
         {children}
     </div>
-);
+)
